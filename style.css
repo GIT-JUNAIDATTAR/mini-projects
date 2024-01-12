@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #412315;
+    color: #f8e9b2;
+    gap: 10px;
+    margin-bottom: 50px;
+    margin-inline: auto;
+}
+
+.img-logo {
+    width: 40px;
+    height: 40px;
+}
