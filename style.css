@@ -6,7 +6,7 @@
     margin: 0;
     padding: 0;
     background-color: #efefef;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans','Open Sans', sans-serif;
   }
   
   .page {
@@ -179,4 +179,8 @@
     border-radius: 100px;
     font-size: 16px;
     cursor: pointer;
+    font-family: system-ui;
+    font-weight: 600;
+    font-size: 1.1em;
   }
+  
