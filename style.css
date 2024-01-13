@@ -26,37 +26,47 @@ section {
     display: flex;
     flex-direction: column;
     width: fit-content;
+    margin: 20px;
+    border-radius: 5px;
 
 }
+
 h4 {
     margin: 0;
     font-family: system-ui;
     font-size: .9em;
     color: #9d7550;
 }
+
 .div-productAndPrice {
     display: flex;
     align-items: center;
     padding-top: 10px;
 
 }
+
 .p-nameAnd {
     margin-left: 10px;
     margin-right: 150px;
     margin-top: 0;
     margin-bottom: 0;
 }
+
 .p-productDetails {
     color: #9d7550;
     margin-bottom: 10px;
 }
-.div-productDetails{
+
+.div-productDetails {
     margin-left: 27px;
     margin-top: 0;
     margin-bottom: 0;
     border-bottom: 2px solid #e8d3bf;
 }
-.p-nameAnd, .p-nameAndPrice,.p-qty {
+
+.p-nameAnd,
+.p-nameAndPrice,
+.p-qty {
     font-weight: 600;
 }
 
